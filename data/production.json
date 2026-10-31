@@ -1,26 +1,39 @@
 {
- "genere": "2026-10-29T10:18:51.251Z",
+ "genere": "2026-10-31T09:52:34.100Z",
  "equipe": "CAROLINA",
- "fiche": "CAROLINA 3-3-0",
+ "fiche": "CAROLINA 3-4-0",
  "pointage": {
-  "releve": "2026-10-29T10:18:51.251Z",
+  "releve": "2026-10-31T09:52:34.100Z",
   "patineurs": [
    {
     "nom": "Jonathan Drouin",
-    "gp": 6,
+    "gp": 7,
     "goals": 3,
     "assists": 11,
     "pts": 14,
-    "plusminus": 6,
+    "plusminus": 5,
     "pim": 6,
     "ppg": 0,
     "gwg": 0,
-    "shots": 15,
-    "hits": 8
+    "shots": 16,
+    "hits": 12
+   },
+   {
+    "nom": "Jeff Skinner",
+    "gp": 7,
+    "goals": 2,
+    "assists": 9,
+    "pts": 11,
+    "plusminus": 2,
+    "pim": 2,
+    "ppg": 1,
+    "gwg": 0,
+    "shots": 28,
+    "hits": 6
    },
    {
     "nom": "Rasmus Dahlin",
-    "gp": 6,
+    "gp": 7,
     "goals": 3,
     "assists": 7,
     "pts": 10,
@@ -28,25 +41,12 @@
     "pim": 2,
     "ppg": 1,
     "gwg": 0,
-    "shots": 14,
-    "hits": 10
-   },
-   {
-    "nom": "Jeff Skinner",
-    "gp": 6,
-    "goals": 2,
-    "assists": 8,
-    "pts": 10,
-    "plusminus": 4,
-    "pim": 0,
-    "ppg": 1,
-    "gwg": 0,
-    "shots": 26,
-    "hits": 5
+    "shots": 19,
+    "hits": 11
    },
    {
     "nom": "Jake DeBrusk",
-    "gp": 6,
+    "gp": 7,
     "goals": 5,
     "assists": 4,
     "pts": 9,
@@ -54,38 +54,51 @@
     "pim": 2,
     "ppg": 0,
     "gwg": 0,
-    "shots": 19,
-    "hits": 20
+    "shots": 20,
+    "hits": 24
    },
    {
     "nom": "Shane Wright",
-    "gp": 6,
+    "gp": 7,
     "goals": 3,
     "assists": 6,
     "pts": 9,
-    "plusminus": -1,
+    "plusminus": -3,
     "pim": 2,
     "ppg": 1,
     "gwg": 1,
-    "shots": 19,
-    "hits": 11
+    "shots": 20,
+    "hits": 12
    },
    {
     "nom": "Hampus Lindholm",
-    "gp": 6,
+    "gp": 7,
     "goals": 2,
     "assists": 5,
     "pts": 7,
-    "plusminus": 1,
+    "plusminus": 0,
     "pim": 0,
     "ppg": 0,
     "gwg": 0,
-    "shots": 10,
+    "shots": 13,
     "hits": 7
    },
    {
+    "nom": "Evgeny Svechnikov",
+    "gp": 7,
+    "goals": 5,
+    "assists": 1,
+    "pts": 6,
+    "plusminus": -3,
+    "pim": 0,
+    "ppg": 1,
+    "gwg": 0,
+    "shots": 12,
+    "hits": 28
+   },
+   {
     "nom": "Jan Mysak",
-    "gp": 6,
+    "gp": 7,
     "goals": 5,
     "assists": 1,
     "pts": 6,
@@ -93,64 +106,64 @@
     "pim": 4,
     "ppg": 1,
     "gwg": 0,
-    "shots": 19,
-    "hits": 13
-   },
-   {
-    "nom": "Evgeny Svechnikov",
-    "gp": 6,
-    "goals": 4,
-    "assists": 1,
-    "pts": 5,
-    "plusminus": -2,
-    "pim": 0,
-    "ppg": 1,
-    "gwg": 0,
-    "shots": 8,
-    "hits": 24
+    "shots": 22,
+    "hits": 14
    },
    {
     "nom": "Teuvo Taravainen",
-    "gp": 5,
+    "gp": 6,
     "goals": 3,
     "assists": 1,
     "pts": 4,
-    "plusminus": 2,
+    "plusminus": 1,
     "pim": 0,
     "ppg": 1,
     "gwg": 1,
-    "shots": 8,
-    "hits": 7
+    "shots": 13,
+    "hits": 10
    },
    {
     "nom": "Tristan Broz",
-    "gp": 6,
+    "gp": 7,
     "goals": 1,
     "assists": 3,
     "pts": 4,
     "plusminus": -1,
-    "pim": 2,
+    "pim": 4,
     "ppg": 0,
     "gwg": 1,
-    "shots": 9,
-    "hits": 9
+    "shots": 12,
+    "hits": 10
    },
    {
     "nom": "Alexandre Carrier",
-    "gp": 6,
+    "gp": 7,
     "goals": 0,
     "assists": 4,
     "pts": 4,
-    "plusminus": -1,
+    "plusminus": -2,
     "pim": 0,
     "ppg": 0,
     "gwg": 0,
     "shots": 4,
-    "hits": 7
+    "hits": 9
+   },
+   {
+    "nom": "Layton Ahac",
+    "gp": 7,
+    "goals": 0,
+    "assists": 3,
+    "pts": 3,
+    "plusminus": 1,
+    "pim": 2,
+    "ppg": 0,
+    "gwg": 0,
+    "shots": 7,
+    "hits": 18
    },
    {
     "nom": "Fabian Zetterlund",
-    "gp": 6,
+    "gp": 7,
     "goals": 0,
     "assists": 3,
     "pts": 3,
@@ -159,11 +172,11 @@
     "ppg": 0,
     "gwg": 0,
     "shots": 5,
-    "hits": 1
+    "hits": 3
    },
    {
     "nom": "Shayne Gostisbehere",
-    "gp": 6,
+    "gp": 7,
     "goals": 1,
     "assists": 1,
     "pts": 2,
@@ -173,19 +186,6 @@
     "gwg": 0,
     "shots": 4,
     "hits": 3
-   },
-   {
-    "nom": "Layton Ahac",
-    "gp": 6,
-    "goals": 0,
-    "assists": 2,
-    "pts": 2,
-    "plusminus": 2,
-    "pim": 2,
-    "ppg": 0,
-    "gwg": 0,
-    "shots": 6,
-    "hits": 15
    },
    {
     "nom": "Jonatan Berggren",
@@ -202,7 +202,7 @@
    },
    {
     "nom": "AJ Greer",
-    "gp": 5,
+    "gp": 6,
     "goals": 0,
     "assists": 0,
     "pts": 0,
@@ -215,7 +215,7 @@
    },
    {
     "nom": "Nick Perbix",
-    "gp": 6,
+    "gp": 7,
     "goals": 0,
     "assists": 0,
     "pts": 0,
@@ -223,12 +223,12 @@
     "pim": 0,
     "ppg": 0,
     "gwg": 0,
-    "shots": 4,
+    "shots": 5,
     "hits": 4
    },
    {
     "nom": "Mark Kastelic",
-    "gp": 6,
+    "gp": 7,
     "goals": 0,
     "assists": 0,
     "pts": 0,
@@ -241,7 +241,7 @@
    },
    {
     "nom": "Jalen Chatfield",
-    "gp": 6,
+    "gp": 7,
     "goals": 0,
     "assists": 0,
     "pts": 0,
@@ -250,21 +250,21 @@
     "ppg": 0,
     "gwg": 0,
     "shots": 5,
-    "hits": 7
+    "hits": 8
    }
   ],
   "gardiens": [
    {
     "nom": "Yaroslav Askarov",
-    "gp": 3,
+    "gp": 4,
     "pim": 0,
     "w": 1,
-    "l": 2,
+    "l": 3,
     "t": 0,
-    "avg": 5.32,
-    "svpct": 0.8,
+    "avg": 4.68,
+    "svpct": 0.819,
     "so": 0,
-    "mp": 158
+    "mp": 218
    },
    {
     "nom": "Pyotr Kochetkov",
@@ -281,116 +281,116 @@
   ]
  },
  "xtra": {
-  "releve": "2026-10-29T10:18:51.251Z",
-  "date": "10/29/2026",
+  "releve": "2026-10-31T09:52:34.100Z",
+  "date": "10/31/2026",
   "joueurs": [
    {
     "nom": "AJ Greer",
     "pos": "RW",
-    "gp": 5,
+    "gp": 6,
     "goals": 0,
     "assists": 0,
     "pts": 0,
     "shots": 1,
     "pim": 0,
-    "mp": 12,
+    "mp": 13,
     "hits": 0
    },
    {
     "nom": "Alexandre Carrier",
     "pos": "D",
-    "gp": 6,
+    "gp": 7,
     "goals": 0,
     "assists": 4,
     "pts": 4,
     "shots": 4,
     "pim": 0,
-    "mp": 108,
-    "hits": 7
+    "mp": 125,
+    "hits": 9
    },
    {
     "nom": "Evgeny Svechnikov",
     "pos": "RW",
-    "gp": 6,
-    "goals": 4,
+    "gp": 7,
+    "goals": 5,
     "assists": 1,
-    "pts": 5,
-    "shots": 8,
+    "pts": 6,
+    "shots": 12,
     "pim": 0,
-    "mp": 114,
-    "hits": 24
+    "mp": 132,
+    "hits": 28
    },
    {
     "nom": "Fabian Zetterlund",
     "pos": "RW",
-    "gp": 6,
+    "gp": 7,
     "goals": 0,
     "assists": 3,
     "pts": 3,
     "shots": 5,
     "pim": 13,
-    "mp": 71,
-    "hits": 1
+    "mp": 82,
+    "hits": 3
    },
    {
     "nom": "Hampus Lindholm",
     "pos": "D",
-    "gp": 6,
+    "gp": 7,
     "goals": 2,
     "assists": 5,
     "pts": 7,
-    "shots": 10,
+    "shots": 13,
     "pim": 0,
-    "mp": 112,
+    "mp": 132,
     "hits": 7
    },
    {
     "nom": "Jake DeBrusk",
     "pos": "LW",
-    "gp": 6,
+    "gp": 7,
     "goals": 5,
     "assists": 4,
     "pts": 9,
-    "shots": 19,
+    "shots": 20,
     "pim": 2,
-    "mp": 138,
-    "hits": 20
+    "mp": 162,
+    "hits": 24
    },
    {
     "nom": "Jalen Chatfield",
     "pos": "D",
-    "gp": 6,
+    "gp": 7,
     "goals": 0,
     "assists": 0,
     "pts": 0,
     "shots": 5,
     "pim": 8,
-    "mp": 69,
-    "hits": 7
+    "mp": 81,
+    "hits": 8
    },
    {
     "nom": "Jan Mysak",
     "pos": "LW",
-    "gp": 6,
+    "gp": 7,
     "goals": 5,
     "assists": 1,
     "pts": 6,
-    "shots": 19,
+    "shots": 22,
     "pim": 4,
-    "mp": 127,
-    "hits": 13
+    "mp": 146,
+    "hits": 14
    },
    {
     "nom": "Jeff Skinner",
     "pos": "LW",
-    "gp": 6,
+    "gp": 7,
     "goals": 2,
-    "assists": 8,
-    "pts": 10,
-    "shots": 26,
-    "pim": 0,
-    "mp": 131,
-    "hits": 5
+    "assists": 9,
+    "pts": 11,
+    "shots": 28,
+    "pim": 2,
+    "mp": 153,
+    "hits": 6
    },
    {
     "nom": "Jonatan Berggren",
@@ -407,49 +407,49 @@
    {
     "nom": "Jonathan Drouin",
     "pos": "C",
-    "gp": 6,
+    "gp": 7,
     "goals": 3,
     "assists": 11,
     "pts": 14,
-    "shots": 15,
+    "shots": 16,
     "pim": 6,
-    "mp": 144,
-    "hits": 8
+    "mp": 173,
+    "hits": 12
    },
    {
     "nom": "Layton Ahac",
     "pos": "D",
-    "gp": 6,
+    "gp": 7,
     "goals": 0,
-    "assists": 2,
-    "pts": 2,
-    "shots": 6,
+    "assists": 3,
+    "pts": 3,
+    "shots": 7,
     "pim": 2,
-    "mp": 116,
-    "hits": 15
+    "mp": 134,
+    "hits": 18
    },
    {
     "nom": "Mark Kastelic",
     "pos": "RW",
-    "gp": 6,
+    "gp": 7,
     "goals": 0,
     "assists": 0,
     "pts": 0,
     "shots": 0,
     "pim": 4,
-    "mp": 11,
+    "mp": 12,
     "hits": 0
    },
    {
     "nom": "Nick Perbix",
     "pos": "D",
-    "gp": 6,
+    "gp": 7,
     "goals": 0,
     "assists": 0,
     "pts": 0,
-    "shots": 4,
+    "shots": 5,
     "pim": 0,
-    "mp": 76,
+    "mp": 87,
     "hits": 4
    },
    {
@@ -469,67 +469,67 @@
    {
     "nom": "Rasmus Dahlin",
     "pos": "D",
-    "gp": 6,
+    "gp": 7,
     "goals": 3,
     "assists": 7,
     "pts": 10,
-    "shots": 14,
+    "shots": 19,
     "pim": 2,
-    "mp": 149,
-    "hits": 10
+    "mp": 176,
+    "hits": 11
    },
    {
     "nom": "Shane Wright",
     "pos": "C",
-    "gp": 6,
+    "gp": 7,
     "goals": 3,
     "assists": 6,
     "pts": 9,
-    "shots": 19,
+    "shots": 20,
     "pim": 2,
-    "mp": 143,
-    "hits": 11
+    "mp": 166,
+    "hits": 12
    },
    {
     "nom": "Shayne Gostisbehere",
     "pos": "D",
-    "gp": 6,
+    "gp": 7,
     "goals": 1,
     "assists": 1,
     "pts": 2,
     "shots": 4,
     "pim": 2,
-    "mp": 58,
+    "mp": 65,
     "hits": 3
    },
    {
     "nom": "Teuvo Taravainen",
     "pos": "C",
-    "gp": 5,
+    "gp": 6,
     "goals": 3,
     "assists": 1,
     "pts": 4,
-    "shots": 8,
+    "shots": 13,
     "pim": 0,
-    "mp": 59,
-    "hits": 7
+    "mp": 82,
+    "hits": 10
    },
    {
     "nom": "Tristan Broz",
     "pos": "C",
-    "gp": 6,
+    "gp": 7,
     "goals": 1,
     "assists": 3,
     "pts": 4,
-    "shots": 9,
-    "pim": 2,
-    "mp": 97,
-    "hits": 9
+    "shots": 12,
+    "pim": 4,
+    "mp": 110,
+    "hits": 10
    },
    {
     "nom": "Yaroslav Askarov",
     "pos": "G",
-    "gp": 3,
+    "gp": 4,
     "goals": 0,
     "assists": 0,
     "pts": 0,
